@@ -164,6 +164,7 @@ class neuralnetwork:
                 print("Success! Network predicted the right number!")
             else:
                 print("Network predicted the wrong number!")
+				#num test implementation
         '''
           *COMMENTED OUT* - Used to save the results to the prediction files
             np.savetxt('PredictDigitY1.csv',
