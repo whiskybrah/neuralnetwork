@@ -2,6 +2,8 @@
 ![nn](http://i.imgur.com/gGryoGu.png)
 Unformatted calculations
 
+
+
 Finding net input for hidden layer 1 or  h_1:
 〖net〗_h1= w_(1 )× k_(1 )+ w_(2 )×〖 k〗_2+〖 b〗_1  ×1 
 〖net〗_h1= 0.1× 0.1+ 0.2 × 0.1+0.1 ×1=0.13
